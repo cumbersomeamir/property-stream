@@ -1,0 +1,914 @@
+"id","year","country","type","quantity","amount","price"
+0,"2006","Australia","Coke",0.08,48.2,6025.0
+1,"2006","Australia","Coking",13.97,7744.2,5543.45
+2,"2006","Australia","Non-Coking",0.39,125.8,3225.64
+3,"2006","China","Coke",2.4,2051.0,8545.83
+4,"2006","China","Coking",0.91,450.5,4950.55
+5,"2006","China","Non-Coking",2.17,666.3,3070.51
+6,"2006","Indonesia","Coking",0.32,140.2,4381.25
+7,"2006","Indonesia","Non-Coking",15.74,3507.9,2228.65
+8,"2006","Japan","Coke",0.1,68.1,6810.0
+9,"2006","Japan","Non-Coking",0.0,0.1,""
+10,"2006","Mozambique","Non-Coking",0.04,13.1,3275.0
+11,"2006","New Zealand","Coking",0.61,406.6,6665.57
+12,"2006","Others","Coke",0.01,8.6,8600.0
+13,"2006","Others","Non-Coking",0.0,0.61,""
+14,"2006","Russia","Coke",0.03,40.0,13333.33
+15,"2006","Russia","Coking",0.04,24.2,6050.0
+16,"2006","South Africa","Coking",0.02,9.2,4600.0
+17,"2006","South Africa","Non-Coking",3.22,972.1,3018.94
+18,"2006","Taiwan","Coke",0.0,1.0,""
+19,"2006","United Kingdom","Coke",0.0,1.5,""
+20,"2006","United Kingdom","Non-Coking",0.0,0.1,""
+21,"2006","United States Of America","Coke",0.0,0.4,""
+22,"2006","United States Of America","Coking",1.02,762.3,7473.53
+23,"2006","Vietnam","Non-Coking",0.12,86.1,7175.0
+24,"2007","Australia","Coke",0.1,82.5,8250.0
+25,"2007","Australia","Coking",15.32,8781.4,5731.98
+26,"2007","Australia","Non-Coking",0.56,236.3,4219.64
+27,"2007","Canada","Coking",0.04,24.2,6050.0
+28,"2007","China","Coke",4.2,3626.5,8634.52
+29,"2007","China","Coking",0.55,255.1,4638.18
+30,"2007","China","Non-Coking",3.55,1101.8,3103.66
+31,"2007","Indonesia","Coking",0.14,46.0,3285.71
+32,"2007","Indonesia","Non-Coking",18.6,4245.4,2282.47
+33,"2007","New Zealand","Coking",0.69,439.6,6371.01
+34,"2007","Others","Coke",0.39,310.1,7951.28
+35,"2007","Others","Coking",0.01,1.7,1700.0
+36,"2007","Others","Non-Coking",0.0,1.2,""
+37,"2007","Russia","Non-Coking",0.05,19.9,3980.0
+38,"2007","South Africa","Coking",0.29,103.9,3582.76
+39,"2007","South Africa","Non-Coking",2.1,713.7,3398.57
+40,"2007","United States Of America","Coke",0.0,2.0,""
+41,"2007","United States Of America","Coking",0.84,528.8,6295.24
+42,"2007","United States Of America","Non-Coking",0.04,13.1,3275.0
+43,"2007","Vietnam","Non-Coking",0.3,176.6,5886.67
+44,"2008","Australia","Coke",0.16,191.2,11950.0
+45,"2008","Australia","Coking",19.63,10794.6,5499.03
+46,"2008","Australia","Non-Coking",1.07,380.5,3556.07
+47,"2008","China","Coke",3.75,4546.3,12123.47
+48,"2008","China","Coking",0.18,126.2,7011.11
+49,"2008","China","Non-Coking",0.37,188.8,5102.7
+50,"2008","Egypt","Coke",0.03,33.0,11000.0
+51,"2008","Indonesia","Coking",0.24,98.6,4108.33
+52,"2008","Indonesia","Non-Coking",19.27,5185.9,2691.18
+53,"2008","Iran","Coke",0.02,25.5,12750.0
+54,"2008","Japan","Coke",0.21,232.5,11071.43
+55,"2008","Malaysia","Coking",0.03,15.0,5000.0
+56,"2008","New Zealand","Coke",0.01,3.8,3800.0
+57,"2008","New Zealand","Coking",0.76,445.6,5863.16
+58,"2008","Others","Coke",0.02,20.0,10000.0
+59,"2008","Others","Coking",0.0,0.2,""
+60,"2008","Others","Non-Coking",0.0,0.2,""
+61,"2008","Philippines","Non-Coking",0.32,90.0,2812.5
+62,"2008","Russia","Non-Coking",0.1,48.4,4840.0
+63,"2008","Singapore","Coke",0.02,43.6,21800.0
+64,"2008","Singapore","Coking",0.01,7.7,7700.0
+65,"2008","Singapore","Non-Coking",0.05,9.7,1940.0
+66,"2008","South Africa","Coking",0.59,260.2,4410.17
+67,"2008","South Africa","Non-Coking",6.38,2608.7,4088.87
+68,"2008","St Lucia","Coking",0.04,15.2,3800.0
+69,"2008","United States Of America","Coke",0.02,27.2,13600.0
+70,"2008","United States Of America","Coking",0.54,339.3,6283.33
+71,"2008","United States Of America","Non-Coking",0.0,0.4,""
+72,"2008","Vietnam","Non-Coking",0.2,123.1,6155.0
+73,"2009","Australia","Coke",0.14,315.4,22528.57
+74,"2009","Australia","Coking",17.94,18972.2,10575.36
+75,"2009","Australia","Non-Coking",1.65,1192.7,7228.48
+76,"2009","China","Coke",1.6,4049.8,25311.25
+77,"2009","China","Coking",0.33,254.3,7706.06
+78,"2009","China","Non-Coking",0.19,146.2,7694.74
+79,"2009","Indonesia","Coking",0.37,362.9,9808.11
+80,"2009","Indonesia","Non-Coking",28.4,12281.0,4324.3
+81,"2009","Japan","Coke",0.07,100.8,14400.0
+82,"2009","Jordan","Non-Coking",0.02,4.6,2300.0
+83,"2009","New Zealand","Coking",0.84,886.3,10551.19
+84,"2009","Others","Coke",0.0,0.2,""
+85,"2009","Others","Non-Coking",0.0,0.7,""
+86,"2009","Philippines","Non-Coking",0.19,71.5,3763.16
+87,"2009","Russia","Coke",0.06,137.7,22950.0
+88,"2009","Russia","Coking",0.24,414.1,17254.17
+89,"2009","Russia","Non-Coking",0.19,222.6,11715.79
+90,"2009","South Africa","Coking",0.14,80.3,5735.71
+91,"2009","South Africa","Non-Coking",6.95,4417.8,6356.55
+92,"2009","Thailand","Non-Coking",0.04,41.8,10450.0
+93,"2009","United Arab Emirates","Coking",0.01,15.2,15200.0
+94,"2009","United Kingdom","Coke",0.0,1.0,""
+95,"2009","United Kingdom","Non-Coking",0.0,0.2,""
+96,"2009","United States Of America","Coke",0.0,0.3,""
+97,"2009","United States Of America","Coking",1.21,1628.6,13459.5
+98,"2009","United States Of America","Non-Coking",0.01,3.6,3600.0
+99,"2009","Unspecified","Non-Coking",0.01,2.1,2100.0
+100,"2009","Vietnam","Non-Coking",0.26,341.9,13150.0
+101,"2010","Australia","Coke",0.3,430.5,14350.0
+102,"2010","Australia","Coking",20.96,17184.1,8198.52
+103,"2010","Australia","Non-Coking",1.87,1196.2,6396.79
+104,"2010","Indonesia","Coking",0.21,141.5,6738.1
+105,"2010","Indonesia","Non-Coking",31.96,11405.8,3568.77
+106,"2010","Mozambique","Non-Coking",0.08,31.5,3937.5
+107,"2010","New Zealand","Coking",1.06,997.7,9412.26
+108,"2010","Others","Coke",1.32,1840.5,13943.18
+109,"2010","Others","Coking",0.14,83.6,5971.43
+110,"2010","Others","Non-Coking",-0.02,-10.0,5000.0
+111,"2010","Philippines","Non-Coking",0.67,223.5,3335.82
+112,"2010","Russia","Coke",0.59,851.7,14435.59
+113,"2010","Russia","Non-Coking",0.15,138.2,9213.33
+114,"2010","South Africa","Coking",0.96,411.8,4289.58
+115,"2010","South Africa","Non-Coking",13.53,5815.1,4297.93
+116,"2010","United Kingdom","Coke",0.03,52.1,17366.67
+117,"2010","United Kingdom","Non-Coking",0.1,61.1,6110.0
+118,"2010","United States Of America","Coke",0.09,125.5,13944.44
+119,"2010","United States Of America","Coking",1.37,1312.4,9579.56
+120,"2010","United States Of America","Non-Coking",0.03,17.9,5966.67
+121,"2010","Vietnam","Coke",0.02,30.8,15400.0
+122,"2010","Vietnam","Non-Coking",0.19,169.4,8915.79
+123,"2011","Australia","Coking",15.95,17119.2,10733.04
+124,"2011","Australia","Non-Coking",0.0,0.2,""
+125,"2011","Canada","Coking",0.0,0.1,""
+126,"2011","Canada","Non-Coking",0.0,0.1,""
+127,"2011","China","Coke",0.7,1621.2,23160.0
+128,"2011","China","Coking",0.11,135.0,12272.73
+129,"2011","China","Non-Coking",0.13,40.2,3092.31
+130,"2011","Colombia","Coke",0.04,82.7,20675.0
+131,"2011","Colombia","Non-Coking",0.1,44.3,4430.0
+132,"2011","Indonesia","Coke",0.22,391.1,17777.27
+133,"2011","Indonesia","Coking",0.58,474.0,8172.41
+134,"2011","Indonesia","Non-Coking",35.36,13004.8,3677.83
+135,"2011","Iran","Coking",0.01,10.7,10700.0
+136,"2011","Kenya","Coking",0.05,67.6,13520.0
+137,"2011","Malaysia","Coking",0.01,14.7,14700.0
+138,"2011","Mexico","Coking",0.02,23.9,11950.0
+139,"2011","New Zealand","Coking",0.8,770.4,9630.0
+140,"2011","Others","Coke",0.2,385.01,19250.5
+141,"2011","Others","Coking",0.0,0.03,""
+142,"2011","Others","Non-Coking",1.8,1329.3,7385.0
+143,"2011","Philippines","Non-Coking",0.26,80.2,3084.62
+144,"2011","Russia","Coke",0.09,174.8,19422.22
+145,"2011","Russia","Coking",0.24,258.8,10783.33
+146,"2011","Russia","Non-Coking",0.18,162.8,9044.44
+147,"2011","South Africa","Coking",0.22,134.1,6095.45
+148,"2011","South Africa","Non-Coking",10.99,5593.1,5089.26
+149,"2011","United Kingdom","Coke",0.03,64.4,21466.67
+150,"2011","United Kingdom","Coking",0.0,3.0,""
+151,"2011","United Kingdom","Non-Coking",0.07,41.8,5971.43
+152,"2011","United States Of America","Coke",0.18,307.0,17055.56
+153,"2011","United States Of America","Coking",1.48,1850.4,12502.7
+154,"2011","United States Of America","Non-Coking",0.29,132.5,4568.97
+155,"2011","Vietnam","Coke",0.04,94.2,23550.0
+156,"2011","Vietnam","Non-Coking",0.24,258.1,10754.17
+157,"2012","Australia","Coking",25.51,34634.3,13576.75
+158,"2012","Australia","Non-Coking",2.29,1991.3,8695.63
+159,"2012","Austria","Coking",0.11,104.1,9463.64
+160,"2012","Austria","Non-Coking",0.07,36.4,5200.0
+161,"2012","Canada","Coking",0.23,315.7,13726.09
+162,"2012","China","Coke",0.72,1689.5,23465.28
+163,"2012","China","Coking",0.27,365.0,13518.52
+164,"2012","China","Non-Coking",0.22,129.0,5863.64
+165,"2012","Germany","Coking",0.03,52.3,17433.33
+166,"2012","Germany","Non-Coking",0.01,17.2,17200.0
+167,"2012","Indonesia","Coke",0.21,356.4,16971.43
+168,"2012","Indonesia","Coking",0.5,482.2,9644.0
+169,"2012","Indonesia","Non-Coking",54.76,25359.6,4631.04
+170,"2012","Iran","Non-Coking",0.07,44.2,6314.29
+171,"2012","New Zealand","Coking",0.94,1285.4,13674.47
+172,"2012","New Zealand","Non-Coking",0.02,13.2,6600.0
+173,"2012","Others","Coke",0.73,1407.5,19280.82
+174,"2012","Others","Coking",0.32,422.3,13196.88
+175,"2012","Others","Non-Coking",0.63,352.9,5601.59
+176,"2012","Russia","Coke",0.3,464.5,15483.33
+177,"2012","Russia","Coking",0.15,193.0,12866.67
+178,"2012","Russia","Non-Coking",1.04,795.6,7650.0
+179,"2012","Singapore","Coke",0.02,47.2,23600.0
+180,"2012","Singapore","Coking",0.0,4.4,""
+181,"2012","South Africa","Coking",1.03,736.9,7154.37
+182,"2012","South Africa","Non-Coking",11.19,6973.8,6232.17
+183,"2012","United Arab Emirates","Coke",0.01,5.3,5300.0
+184,"2012","United Arab Emirates","Coking",0.03,31.5,10500.0
+185,"2012","United Arab Emirates","Non-Coking",0.04,50.1,12525.0
+186,"2012","United Kingdom","Coke",0.33,716.5,21712.12
+187,"2012","United Kingdom","Coking",0.0,3.6,""
+188,"2012","United Kingdom","Non-Coking",0.37,357.9,9672.97
+189,"2012","United States Of America","Coke",0.03,39.5,13166.67
+190,"2012","United States Of America","Coking",2.68,3838.5,14322.76
+191,"2012","United States Of America","Non-Coking",0.29,136.0,4689.66
+192,"2012","Vietnam","Coke",0.02,32.0,16000.0
+193,"2012","Vietnam","Non-Coking",0.06,111.1,18516.67
+194,"2013","Australia","Coke",0.04,65.5,16375.0
+195,"2013","Australia","Coking",27.48,29504.0,10736.54
+196,"2013","Australia","Non-Coking",2.97,2092.9,7046.8
+197,"2013","Austria","Coking",0.02,18.1,9050.0
+198,"2013","Bangladesh","Coke",0.0,0.4,""
+199,"2013","Bosnia And Herzegovina","Coke",0.04,76.3,19075.0
+200,"2013","Canada","Coking",0.87,1015.3,11670.11
+201,"2013","Canada","Non-Coking",0.13,69.1,5315.38
+202,"2013","China","Coke",0.1,241.8,24180.0
+203,"2013","China","Non-Coking",0.01,34.2,34200.0
+204,"2013","Colombia","Coke",0.34,553.9,16291.18
+205,"2013","Colombia","Coking",0.07,67.8,9685.71
+206,"2013","Colombia","Non-Coking",0.18,135.4,7522.22
+207,"2013","Germany","Non-Coking",0.0,1.4,""
+208,"2013","Indonesia","Coking",0.22,236.1,10731.82
+209,"2013","Indonesia","Non-Coking",82.17,32734.5,3983.75
+210,"2013","Ireland","Coke",0.0,0.1,""
+211,"2013","Italy","Coke",0.01,23.6,23600.0
+212,"2013","Italy","Non-Coking",0.02,13.0,6500.0
+213,"2013","Japan","Coke",0.75,1454.4,19392.0
+214,"2013","Latvia","Coke",0.0,4.7,""
+215,"2013","Latvia","Non-Coking",0.05,40.3,8060.0
+216,"2013","Mongolia","Coking",0.03,41.7,13900.0
+217,"2013","Mozambique","Coking",0.9,975.9,10843.33
+218,"2013","Mozambique","Non-Coking",0.07,42.8,6114.29
+219,"2013","Netherlands","Non-Coking",0.0,0.1,""
+220,"2013","New Zealand","Coking",1.05,1135.6,10815.24
+221,"2013","Pakistan","Non-Coking",0.0,2.4,""
+222,"2013","Philippines","Non-Coking",0.17,56.2,3305.88
+223,"2013","Poland","Coke",0.41,776.1,18929.27
+224,"2013","Russia","Coke",0.37,680.2,18383.78
+225,"2013","Russia","Coking",0.06,60.7,10116.67
+226,"2013","Russia","Non-Coking",0.31,295.7,9538.71
+227,"2013","Singapore","Non-Coking",0.06,35.1,5850.0
+228,"2013","South Africa","Coke",0.0,2.6,""
+229,"2013","South Africa","Coking",1.46,914.7,6265.07
+230,"2013","South Africa","Non-Coking",18.83,10441.8,5545.3
+231,"2013","South Korea","Coke",0.01,26.1,26100.0
+232,"2013","Spain","Coke",0.0,0.6,""
+233,"2013","Spain","Non-Coking",0.0,0.3,""
+234,"2013","United Arab Emirates","Non-Coking",0.0,0.1,""
+235,"2013","United Kingdom","Coke",0.91,1637.3,17992.31
+236,"2013","United Kingdom","Coking",0.0,4.9,""
+237,"2013","United Kingdom","Non-Coking",0.26,251.7,9680.77
+238,"2013","United States Of America","Coking",3.31,3749.7,11328.4
+239,"2013","United States Of America","Non-Coking",3.08,1753.5,5693.18
+240,"2013","Unspecified","Coking",0.07,115.3,16471.43
+241,"2013","Unspecified","Non-Coking",1.85,908.6,4911.35
+242,"2013","Venezuela","Non-Coking",0.0,0.1,""
+243,"2013","Vietnam","Coke",0.08,148.4,18550.0
+244,"2013","Vietnam","Non-Coking",0.06,96.6,16100.0
+245,"2014","Australia","Coke",0.27,434.4,16088.89
+246,"2014","Australia","Coking",29.8,28321.4,9503.83
+247,"2014","Australia","Non-Coking",4.68,3289.8,7029.49
+248,"2014","Canada","Coking",1.25,1224.8,9798.4
+249,"2014","Chile","Non-Coking",0.93,330.9,3558.06
+250,"2014","China","Coke",2.03,3307.9,16295.07
+251,"2014","China","Non-Coking",0.21,201.4,9590.48
+252,"2014","Colombia","Coke",0.26,400.0,15384.62
+253,"2014","Colombia","Coking",0.04,43.1,10775.0
+254,"2014","Colombia","Non-Coking",0.0,3.5,""
+255,"2014","Egypt","Non-Coking",0.01,9.2,9200.0
+256,"2014","Indonesia","Coke",0.02,37.5,18750.0
+257,"2014","Indonesia","Coking",0.09,73.0,8111.11
+258,"2014","Indonesia","Non-Coking",101.79,41218.4,4049.36
+259,"2014","Italy","Coke",0.07,106.4,15200.0
+260,"2014","Japan","Coke",0.58,967.2,16675.86
+261,"2014","Latvia","Coke",0.0,5.5,""
+262,"2014","Malaysia","Non-Coking",0.06,20.1,3350.0
+263,"2014","Mozambique","Coking",0.97,898.5,9262.89
+264,"2014","Mozambique","Non-Coking",0.53,287.8,5430.19
+265,"2014","New Zealand","Coking",1.13,1072.9,9494.69
+266,"2014","Pakistan","Coke",0.02,20.1,10050.0
+267,"2014","Pakistan","Non-Coking",0.0,0.2,""
+268,"2014","Poland","Coke",0.17,309.7,18217.65
+269,"2014","Russia","Coke",0.14,220.2,15728.57
+270,"2014","Russia","Coking",0.24,188.6,7858.33
+271,"2014","Russia","Non-Coking",0.5,423.0,8460.0
+272,"2014","South Africa","Coke",0.0,3.0,""
+273,"2014","South Africa","Coking",0.7,451.8,6454.29
+274,"2014","South Africa","Non-Coking",19.92,10673.4,5358.13
+275,"2014","South Korea","Coke",0.03,52.8,17600.0
+276,"2014","Spain","Coke",0.0,1.3,""
+277,"2014","United Kingdom","Coke",0.58,932.6,16079.31
+278,"2014","United Kingdom","Coking",0.0,4.0,""
+279,"2014","United Kingdom","Non-Coking",0.32,310.9,9715.63
+280,"2014","United States Of America","Coke",0.0,0.1,""
+281,"2014","United States Of America","Coking",2.65,2553.9,9637.36
+282,"2014","United States Of America","Non-Coking",1.0,653.1,6531.0
+283,"2014","Unspecified","Coke",0.0,0.7,""
+284,"2014","Unspecified","Non-Coking",0.0,1.0,""
+285,"2014","Vietnam","Non-Coking",0.05,74.7,14940.0
+286,"2015","Andorra","Non-Coking",0.08,32.8,4100.0
+287,"2015","Australia","Coke",0.21,276.7,13176.19
+288,"2015","Australia","Coking",37.5,28873.9,7699.71
+289,"2015","Australia","Non-Coking",10.12,5582.1,5515.91
+290,"2015","Canada","Coke",0.0,0.2,""
+291,"2015","Canada","Coking",1.86,1456.3,7829.57
+292,"2015","Canada","Non-Coking",0.1,63.6,6360.0
+293,"2015","Chad","Non-Coking",0.02,6.2,3100.0
+294,"2015","Chile","Non-Coking",1.73,554.9,3207.51
+295,"2015","China","Coke",2.03,2546.9,12546.31
+296,"2015","China","Non-Coking",0.02,33.4,16700.0
+297,"2015","Colombia","Coke",0.1,190.9,19090.0
+298,"2015","Colombia","Non-Coking",0.0,1.5,""
+299,"2015","Germany","Coke",0.0,0.1,""
+300,"2015","Germany","Non-Coking",0.0,0.1,""
+301,"2015","Indonesia","Non-Coking",123.73,45107.5,3645.64
+302,"2015","Ireland","Coke",0.0,0.1,""
+303,"2015","Italy","Coke",0.04,59.0,14750.0
+304,"2015","Japan","Coke",0.34,509.0,14970.59
+305,"2015","Latvia","Coke",0.0,5.5,""
+306,"2015","Latvia","Non-Coking",0.0,1.1,""
+307,"2015","Lithuania","Coke",0.0,0.1,""
+308,"2015","Malaysia","Coking",0.0,2.5,""
+309,"2015","Malaysia","Non-Coking",0.01,3.6,3600.0
+310,"2015","Mozambique","Coking",1.41,1063.5,7542.55
+311,"2015","Mozambique","Non-Coking",0.57,272.4,4778.95
+312,"2015","New Zealand","Coking",1.02,789.7,7742.16
+313,"2015","Panama","Non-Coking",0.03,22.4,7466.67
+314,"2015","Poland","Coke",0.1,133.7,13370.0
+315,"2015","Russia","Coke",0.13,194.4,14953.85
+316,"2015","Russia","Coking",0.13,88.2,6784.62
+317,"2015","Russia","Non-Coking",1.2,760.4,6336.67
+318,"2015","South Africa","Coking",0.16,96.2,6012.5
+319,"2015","South Africa","Non-Coking",30.57,15167.5,4961.56
+320,"2015","Switzerland","Non-Coking",0.03,11.1,3700.0
+321,"2015","United Arab Emirates","Non-Coking",0.01,16.7,16700.0
+322,"2015","United Kingdom","Coke",0.31,438.0,14129.03
+323,"2015","United Kingdom","Coking",0.0,6.4,""
+324,"2015","United Kingdom","Non-Coking",0.2,185.7,9285.0
+325,"2015","United States Of America","Coking",1.6,1372.5,8578.13
+326,"2015","United States Of America","Non-Coking",2.67,1627.6,6095.88
+327,"2015","Unspecified","Coking",0.02,16.4,8200.0
+328,"2015","Unspecified","Non-Coking",2.95,1237.4,4194.58
+329,"2015","Us Minor Outlying Islands","Non-Coking",0.0,0.1,""
+330,"2015","Venezuela","Coke",0.03,26.1,8700.0
+331,"2015","Vietnam","Non-Coking",0.03,52.9,17633.33
+332,"2016","Australia","Coke",0.19,210.0,11052.63
+333,"2016","Australia","Coking",37.97,24118.6,6352.01
+334,"2016","Australia","Non-Coking",9.58,4664.0,4868.48
+335,"2016","Baharain Is","Non-Coking",0.02,6.9,3450.0
+336,"2016","Bhutan","Non-Coking",0.01,1.8,1800.0
+337,"2016","Canada","Coking",1.35,839.6,6219.26
+338,"2016","Canada","Non-Coking",0.2,93.4,4670.0
+339,"2016","Chile","Non-Coking",0.77,217.4,2823.38
+340,"2016","China","Coke",2.15,2197.7,10221.86
+341,"2016","China","Non-Coking",0.48,177.5,3697.92
+342,"2016","Colombia","Coke",0.06,79.6,13266.67
+343,"2016","Colombia","Non-Coking",0.0,0.9,""
+344,"2016","Denmark","Coke",0.0,0.2,""
+345,"2016","Germany","Non-Coking",0.0,0.1,""
+346,"2016","Iceland","Non-Coking",0.04,15.2,3800.0
+347,"2016","Indonesia","Coking",0.15,84.8,5653.33
+348,"2016","Indonesia","Non-Coking",96.04,31536.4,3283.67
+349,"2016","Ireland","Coke",0.0,0.1,""
+350,"2016","Japan","Coke",0.18,190.4,10577.78
+351,"2016","Latvia","Coke",0.01,6.8,6800.0
+352,"2016","Latvia","Non-Coking",0.0,2.2,""
+353,"2016","Lithuania","Coke",0.0,0.9,""
+354,"2016","Moldova","Non-Coking",0.07,24.0,3428.57
+355,"2016","Mozambique","Coking",1.85,1101.0,5951.35
+356,"2016","Mozambique","Non-Coking",0.81,275.9,3406.17
+357,"2016","Netherlands","Non-Coking",0.0,0.3,""
+358,"2016","New Zealand","Coking",0.62,411.8,6641.94
+359,"2016","New Zealand","Non-Coking",0.06,25.8,4300.0
+360,"2016","Oman","Coke",0.05,65.4,13080.0
+361,"2016","Oman","Non-Coking",0.11,56.2,5109.09
+362,"2016","Poland","Coke",0.35,423.4,12097.14
+363,"2016","Russia","Coke",0.07,85.7,12242.86
+364,"2016","Russia","Coking",0.0,3.1,""
+365,"2016","Russia","Non-Coking",3.82,2016.9,5279.84
+366,"2016","Saudi Arabia","Coke",0.0,1.1,""
+367,"2016","Saudi Arabia","Non-Coking",0.01,2.4,2400.0
+368,"2016","Singapore","Non-Coking",0.02,4.8,2400.0
+369,"2016","South Africa","Coking",0.26,171.9,6611.54
+370,"2016","South Africa","Non-Coking",35.82,13761.8,3841.93
+371,"2016","Spain","Coking",0.11,70.3,6390.91
+372,"2016","Thailand","Non-Coking",0.0,0.2,""
+373,"2016","United Arab Emirates","Coking",0.01,9.4,9400.0
+374,"2016","United Kingdom","Coke",0.0,1.8,""
+375,"2016","United Kingdom","Coking",0.0,3.7,""
+376,"2016","United Kingdom","Non-Coking",0.06,38.9,6483.33
+377,"2016","United States Of America","Coking",1.16,848.8,7317.24
+378,"2016","United States Of America","Non-Coking",4.58,2391.2,5220.96
+379,"2016","Unspecified","Non-Coking",3.85,1480.0,3844.16
+380,"2016","Vietnam","Non-Coking",0.03,46.3,15433.33
+381,"2017","Australia","Coke",0.62,857.93,13837.58
+382,"2017","Australia","Coking",36.5,35940.24,9846.64
+383,"2017","Australia","Non-Coking",10.15,6673.73,6575.1
+384,"2017","Belarus","Coke",0.0,0.03,""
+385,"2017","Canada","Coke",0.0,0.26,""
+386,"2017","Canada","Coking",2.3,2378.02,10339.22
+387,"2017","Canada","Non-Coking",0.08,48.68,6085.0
+388,"2017","Chile","Non-Coking",0.74,217.92,2944.86
+389,"2017","China","Coke",2.21,2616.94,11841.36
+390,"2017","China","Lignite",0.02,43.27,21635.0
+391,"2017","China","Non-Coking",0.02,39.92,19960.0
+392,"2017","Colombia","Coke",0.23,342.19,14877.83
+393,"2017","Colombia","Coking",0.0,0.04,""
+394,"2017","Colombia","Non-Coking",2.0,742.85,3714.25
+395,"2017","Estonia","Coke",0.0,0.15,""
+396,"2017","Germany","Coke",0.0,0.09,""
+397,"2017","Germany","Non-Coking",0.0,0.14,""
+398,"2017","Indonesia","Non-Coking",91.26,31913.16,3496.95
+399,"2017","Iran","Coking",0.0,1.24,""
+400,"2017","Iran","Non-Coking",0.03,11.78,3926.67
+401,"2017","Ireland","Coke",0.0,0.21,""
+402,"2017","Italy","Coke",0.0,0.79,""
+403,"2017","Japan","Coke",0.38,446.09,11739.21
+404,"2017","Japan","Non-Coking",0.0,0.08,""
+405,"2017","Latvia","Coke",0.01,7.22,7220.0
+406,"2017","Lithuania","Coke",0.0,0.94,""
+407,"2017","Macao","Non-Coking",0.0,1.34,""
+408,"2017","Malaysia","Non-Coking",0.04,16.57,4142.5
+409,"2017","Mozambique","Coking",0.86,950.09,11047.56
+410,"2017","Mozambique","Non-Coking",2.85,1124.83,3946.77
+411,"2017","Netherlands","Coke",0.0,0.03,""
+412,"2017","Netherlands","Non-Coking",0.0,0.17,""
+413,"2017","New Zealand","Coking",0.47,442.94,9424.26
+414,"2017","Philippines","Non-Coking",0.19,82.9,4363.16
+415,"2017","Poland","Coke",0.74,880.38,11897.03
+416,"2017","Russia","Coke",0.11,158.02,14365.45
+417,"2017","Russia","Coking",0.29,230.24,7939.31
+418,"2017","Russia","Non-Coking",3.91,1999.96,5114.99
+419,"2017","Saudi Arabia","Non-Coking",0.05,12.74,2548.0
+420,"2017","South Africa","Coking",0.04,49.4,12350.0
+421,"2017","South Africa","Non-Coking",33.94,14068.85,4145.21
+422,"2017","United Arab Emirates","Non-Coking",0.0,0.05,""
+423,"2017","United Kingdom","Coke",0.05,90.67,18134.0
+424,"2017","United Kingdom","Coking",0.0,4.49,""
+425,"2017","United Kingdom","Non-Coking",0.06,35.96,5993.33
+426,"2017","United States Of America","Coking",1.15,1200.64,10440.35
+427,"2017","United States Of America","Lignite",0.0,0.06,""
+428,"2017","United States Of America","Non-Coking",3.95,1945.93,4926.41
+429,"2017","Unspecified","Coking",0.01,4.02,4020.0
+430,"2017","Vietnam","Non-Coking",0.05,63.76,12752.0
+431,"2017","Virgin Is Us","Coking",0.02,28.69,14345.0
+432,"2018","Australia","Coke",0.49,952.77,19444.29
+433,"2018","Australia","Coking",35.76,44953.61,12570.92
+434,"2018","Australia","Non-Coking",10.36,8870.84,8562.59
+435,"2018","Austria","Coking",0.02,30.18,15090.0
+436,"2018","Canada","Coke",0.0,0.01,""
+437,"2018","Canada","Coking",3.3,4039.11,12239.73
+438,"2018","Canada","Non-Coking",0.26,229.95,8844.23
+439,"2018","Chile","Coke",0.03,32.08,10693.33
+440,"2018","Chile","Non-Coking",0.27,100.49,3721.85
+441,"2018","China","Coke",1.83,3748.47,20483.44
+442,"2018","China","Coking",0.17,298.19,17540.59
+443,"2018","China","Lignite",0.0,0.47,""
+444,"2018","China","Non-Coking",0.06,95.26,15876.67
+445,"2018","Colombia","Coke",0.58,941.64,16235.17
+446,"2018","Colombia","Non-Coking",0.33,194.68,5899.39
+447,"2018","Denmark","Non-Coking",0.0,0.0,""
+448,"2018","Egypt","Coke",0.1,218.74,21874.0
+449,"2018","Egypt","Lignite",0.01,11.12,11120.0
+450,"2018","Estonia","Coke",0.0,0.04,""
+451,"2018","Finland","Coke",0.0,0.12,""
+452,"2018","Finland","Non-Coking",0.02,19.76,9880.0
+453,"2018","Germany","Coke",0.0,0.32,""
+454,"2018","Germany","Non-Coking",0.0,0.07,""
+455,"2018","Indonesia","Coking",1.09,1348.21,12368.9
+456,"2018","Indonesia","Non-Coking",94.73,38750.97,4090.68
+457,"2018","Iran","Coke",0.0,3.77,""
+458,"2018","Iran","Coking",0.0,0.02,""
+459,"2018","Ireland","Coke",0.0,0.13,""
+460,"2018","Italy","Coke",0.0,0.0,""
+461,"2018","Japan","Coke",0.6,1250.66,20844.33
+462,"2018","Kuwait","Non-Coking",0.0,0.17,""
+463,"2018","Latvia","Coke",0.0,5.35,""
+464,"2018","Latvia","Non-Coking",0.16,148.26,9266.25
+465,"2018","Lithuania","Coke",0.0,1.4,""
+466,"2018","Malaysia","Coke",0.0,0.18,""
+467,"2018","Mexico","Coke",0.05,91.86,18372.0
+468,"2018","Mozambique","Coking",2.38,2846.56,11960.34
+469,"2018","Mozambique","Non-Coking",3.53,2021.96,5727.93
+470,"2018","Netherlands","Coke",0.0,0.02,""
+471,"2018","Netherlands","Non-Coking",0.0,0.58,""
+472,"2018","New Zealand","Coking",0.6,754.34,12572.33
+473,"2018","Philippines","Non-Coking",0.09,41.42,4602.22
+474,"2018","Poland","Coke",0.73,1554.31,21291.92
+475,"2018","Russia","Coke",0.14,299.61,21400.71
+476,"2018","Russia","Coking",0.39,352.21,9031.03
+477,"2018","Russia","Non-Coking",3.91,3046.9,7792.58
+478,"2018","Saudi Arabia","Coke",0.0,1.02,""
+479,"2018","South Africa","Coking",0.0,7.12,""
+480,"2018","South Africa","Non-Coking",38.49,19697.07,5117.45
+481,"2018","South Korea","Coke",0.02,40.01,20005.0
+482,"2018","Spain","Coke",0.0,0.76,""
+483,"2018","Spain","Non-Coking",0.0,0.42,""
+484,"2018","Thailand","Non-Coking",0.01,3.23,3230.0
+485,"2018","United Kingdom","Coke",0.0,0.71,""
+486,"2018","United Kingdom","Coking",0.0,4.61,""
+487,"2018","United Kingdom","Non-Coking",0.0,1.76,""
+488,"2018","United States Of America","Coke",0.01,8.46,8460.0
+489,"2018","United States Of America","Coking",3.29,4884.86,14847.6
+490,"2018","United States Of America","Lignite",0.0,0.06,""
+491,"2018","United States Of America","Non-Coking",8.75,5470.16,6251.61
+492,"2018","Unspecified","Coking",0.0,3.61,""
+493,"2018","Unspecified","Non-Coking",0.06,22.53,3755.0
+494,"2018","Vietnam","Coke",0.0,0.03,""
+495,"2018","Vietnam","Non-Coking",0.21,237.87,11327.14
+496,"2019","Australia","Coke",0.44,1163.58,26445.0
+497,"2019","Australia","Coking",36.93,51677.38,13993.33
+498,"2019","Australia","Non-Coking",11.24,9865.07,8776.75
+499,"2019","Austria","Coking",0.08,92.03,11503.75
+500,"2019","Bangladesh","Coking",0.0,0.0,""
+501,"2019","Bangladesh","Non-Coking",0.03,23.79,7930.0
+502,"2019","Belgium","Non-Coking",0.0,4.66,""
+503,"2019","Bhutan","Coking",0.0,0.07,""
+504,"2019","Bhutan","Non-Coking",0.01,5.73,5730.0
+505,"2019","Canada","Coke",0.0,0.05,""
+506,"2019","Canada","Coking",4.29,6214.29,14485.52
+507,"2019","Canada","Non-Coking",0.16,206.8,12925.0
+508,"2019","Chile","Non-Coking",0.25,91.06,3642.4
+509,"2019","China","Coke",1.91,4710.07,24660.05
+510,"2019","China","Lignite",0.01,9.41,9410.0
+511,"2019","China","Non-Coking",0.05,170.54,34108.0
+512,"2019","Colombia","Coke",0.47,1024.9,21806.38
+513,"2019","Colombia","Coking",0.01,14.88,14880.0
+514,"2019","Colombia","Non-Coking",0.5,319.03,6380.6
+515,"2019","Cyprus","Coke",0.01,13.75,13750.0
+516,"2019","Cyprus","Non-Coking",0.0,0.35,""
+517,"2019","Denmark","Coke",0.01,7.48,7480.0
+518,"2019","Egypt","Coke",0.14,329.28,23520.0
+519,"2019","Estonia","Coke",0.0,0.17,""
+520,"2019","Finland","Non-Coking",0.19,192.64,10138.95
+521,"2019","Germany","Coke",0.0,0.34,""
+522,"2019","Germany","Non-Coking",0.0,0.15,""
+523,"2019","Hong Kong","Coke",0.03,40.98,13660.0
+524,"2019","Hong Kong","Lignite",0.0,3.51,""
+525,"2019","Hong Kong","Non-Coking",0.18,81.15,4508.33
+526,"2019","Indonesia","Coke",0.03,37.09,12363.33
+527,"2019","Indonesia","Coking",1.17,1405.19,12010.17
+528,"2019","Indonesia","Non-Coking",111.71,49027.62,4388.83
+529,"2019","Iran","Coke",0.04,75.28,18820.0
+530,"2019","Iran","Coking",0.0,0.02,""
+531,"2019","Iran","Non-Coking",0.0,0.08,""
+532,"2019","Ireland","Coke",0.0,0.15,""
+533,"2019","Italy","Coke",0.04,92.39,23097.5
+534,"2019","Italy","Lignite",0.01,27.29,27290.0
+535,"2019","Japan","Coke",0.32,804.84,25151.25
+536,"2019","Kazakhstan","Non-Coking",0.0,0.01,""
+537,"2019","Kenya","Coke",0.0,0.0,""
+538,"2019","Latvia","Coke",0.0,1.25,""
+539,"2019","Latvia","Non-Coking",0.4,420.93,10523.25
+540,"2019","Lithuania","Coke",0.0,2.29,""
+541,"2019","Malaysia","Coke",0.01,11.19,11190.0
+542,"2019","Malaysia","Non-Coking",0.11,47.3,4300.0
+543,"2019","Malta","Non-Coking",0.08,45.97,5746.25
+544,"2019","Mexico","Coke",0.03,61.02,20340.0
+545,"2019","Morocco","Non-Coking",0.02,9.11,4555.0
+546,"2019","Mozambique","Coke",0.0,0.06,""
+547,"2019","Mozambique","Coking",2.24,2821.76,12597.14
+548,"2019","Mozambique","Non-Coking",4.85,3179.25,6555.15
+549,"2019","Netherlands","Coke",0.04,100.72,25180.0
+550,"2019","Netherlands","Non-Coking",0.01,9.52,9520.0
+551,"2019","New Zealand","Coke",0.0,0.0,""
+552,"2019","New Zealand","Coking",0.45,561.77,12483.78
+553,"2019","New Zealand","Non-Coking",0.05,27.12,5424.0
+554,"2019","Oman","Coke",0.01,25.82,25820.0
+555,"2019","Philippines","Non-Coking",0.07,34.78,4968.57
+556,"2019","Poland","Coke",0.8,2148.16,26852.0
+557,"2019","Qatar","Coke",0.0,0.01,""
+558,"2019","Romania","Non-Coking",0.03,39.91,13303.33
+559,"2019","Russia","Coke",0.25,611.67,24466.8
+560,"2019","Russia","Coking",0.55,604.32,10987.64
+561,"2019","Russia","Non-Coking",4.38,4133.85,9438.01
+562,"2019","Saudi Arabia","Non-Coking",0.04,20.39,5097.5
+563,"2019","Singapore","Coke",0.16,357.58,22348.75
+564,"2019","Singapore","Coking",1.51,2081.9,13787.42
+565,"2019","Singapore","Non-Coking",4.15,2455.26,5916.29
+566,"2019","South Africa","Coke",0.0,0.0,""
+567,"2019","South Africa","Non-Coking",31.15,18950.55,6083.64
+568,"2019","South Korea","Coke",0.01,42.67,42670.0
+569,"2019","South Korea","Non-Coking",0.08,27.62,3452.5
+570,"2019","Spain","Coke",0.0,0.23,""
+571,"2019","Spain","Non-Coking",0.0,1.67,""
+572,"2019","Sri Lanka","Coke",0.0,0.61,""
+573,"2019","Switzerland","Coke",0.12,235.17,19597.5
+574,"2019","Switzerland","Coking",0.04,44.18,11045.0
+575,"2019","Switzerland","Non-Coking",1.78,890.8,5004.49
+576,"2019","Thailand","Non-Coking",0.0,0.01,""
+577,"2019","Turkey","Coke",0.03,62.08,20693.33
+578,"2019","United Arab Emirates","Coke",0.05,97.16,19432.0
+579,"2019","United Arab Emirates","Coking",0.44,634.72,14425.45
+580,"2019","United Arab Emirates","Non-Coking",1.03,580.33,5634.27
+581,"2019","United Kingdom","Coke",0.0,0.67,""
+582,"2019","United Kingdom","Coking",0.0,3.53,""
+583,"2019","United Kingdom","Non-Coking",0.0,5.85,""
+584,"2019","United States Of America","Coke",0.01,5.18,5180.0
+585,"2019","United States Of America","Coking",4.13,5893.71,14270.48
+586,"2019","United States Of America","Lignite",0.0,0.14,""
+587,"2019","United States Of America","Non-Coking",10.84,7852.3,7243.82
+588,"2019","Unspecified","Non-Coking",0.01,2.25,2250.0
+589,"2019","Uzbekistan","Non-Coking",0.0,0.0,""
+590,"2019","Venezuela","Coke",0.0,0.58,""
+591,"2019","Vietnam","Non-Coking",0.1,147.27,14727.0
+592,"2020","Australia","Coke",0.14,249.26,17804.29
+593,"2020","Australia","Coking",35.92,42726.73,11894.97
+594,"2020","Australia","Non-Coking",10.8,8290.26,7676.17
+595,"2020","Baharain Is","Coke",0.0,0.67,""
+596,"2020","Baharain Is","Non-Coking",0.0,0.65,""
+597,"2020","Bangladesh","Non-Coking",0.01,6.73,6730.0
+598,"2020","Belgium","Non-Coking",0.16,79.49,4968.13
+599,"2020","Bhutan","Non-Coking",0.0,1.78,""
+600,"2020","Canada","Coke",0.0,0.27,""
+601,"2020","Canada","Coking",4.65,5729.39,12321.27
+602,"2020","Canada","Non-Coking",0.04,28.97,7242.5
+603,"2020","China","Coke",0.34,722.4,21247.06
+604,"2020","China","Coking",0.18,286.94,15941.11
+605,"2020","China","Lignite",0.01,13.39,13390.0
+606,"2020","China","Non-Coking",0.03,96.28,32093.33
+607,"2020","Colombia","Coke",0.39,712.39,18266.41
+608,"2020","Colombia","Coking",0.01,10.64,10640.0
+609,"2020","Colombia","Non-Coking",1.9,942.32,4959.58
+610,"2020","Cyprus","Non-Coking",0.0,2.56,""
+611,"2020","Denmark","Coke",0.01,8.71,8710.0
+612,"2020","Egypt","Coke",0.04,64.6,16150.0
+613,"2020","Estonia","Coke",0.0,0.39,""
+614,"2020","Finland","Coke",0.04,94.64,23660.0
+615,"2020","Finland","Non-Coking",0.08,71.79,8973.75
+616,"2020","Germany","Coke",0.0,2.87,""
+617,"2020","Germany","Coking",0.03,29.34,9780.0
+618,"2020","Germany","Non-Coking",0.0,0.15,""
+619,"2020","Hong Kong","Coke",0.01,11.42,11420.0
+620,"2020","Hong Kong","Lignite",0.0,0.45,""
+621,"2020","Hong Kong","Non-Coking",0.06,32.8,5466.67
+622,"2020","Iceland","Non-Coking",0.08,32.13,4016.25
+623,"2020","Indonesia","Coke",0.13,289.89,22299.23
+624,"2020","Indonesia","Coking",1.42,1315.66,9265.21
+625,"2020","Indonesia","Lignite",0.0,0.0,""
+626,"2020","Indonesia","Non-Coking",115.24,44769.24,3884.87
+627,"2020","Iran","Coke",0.02,27.72,13860.0
+628,"2020","Iran","Non-Coking",0.02,7.37,3685.0
+629,"2020","Ireland","Coke",0.0,0.24,""
+630,"2020","Japan","Coke",0.39,826.36,21188.72
+631,"2020","Japan","Lignite",0.02,44.34,22170.0
+632,"2020","Latvia","Coke",0.0,1.83,""
+633,"2020","Latvia","Non-Coking",0.13,140.01,10770.0
+634,"2020","Lithuania","Coke",0.0,1.3,""
+635,"2020","Malaysia","Coke",0.0,0.66,""
+636,"2020","Malaysia","Non-Coking",0.0,0.04,""
+637,"2020","Mexico","Non-Coking",0.11,63.38,5761.82
+638,"2020","Mozambique","Coking",1.78,2089.09,11736.46
+639,"2020","Mozambique","Non-Coking",3.7,1938.18,5238.32
+640,"2020","Netherlands","Coke",0.0,0.29,""
+641,"2020","Netherlands","Non-Coking",0.38,147.33,3877.11
+642,"2020","New Zealand","Coking",0.41,437.68,10675.12
+643,"2020","New Zealand","Non-Coking",0.0,0.01,""
+644,"2020","Nigeria","Non-Coking",0.0,0.03,""
+645,"2020","Philippines","Non-Coking",0.04,14.62,3655.0
+646,"2020","Poland","Coke",0.81,1952.67,24107.04
+647,"2020","Puerto Rico","Coke",0.0,6.24,""
+648,"2020","Qatar","Coke",0.0,0.58,""
+649,"2020","Russia","Coke",0.3,616.71,20557.0
+650,"2020","Russia","Coking",1.1,810.48,7368.0
+651,"2020","Russia","Lignite",0.02,49.27,24635.0
+652,"2020","Russia","Non-Coking",7.12,5238.68,7357.7
+653,"2020","Saudi Arabia","Non-Coking",0.0,0.13,""
+654,"2020","Singapore","Coke",0.18,343.95,19108.33
+655,"2020","Singapore","Coking",2.01,2529.07,12582.44
+656,"2020","Singapore","Non-Coking",3.72,1978.08,5317.42
+657,"2020","South Africa","Coking",0.0,0.0,""
+658,"2020","South Africa","Non-Coking",42.48,21269.3,5006.9
+659,"2020","Spain","Coke",0.0,0.71,""
+660,"2020","Switzerland","Coke",0.03,56.51,18836.67
+661,"2020","Switzerland","Coking",0.29,368.22,12697.24
+662,"2020","Switzerland","Non-Coking",1.04,525.23,5050.29
+663,"2020","Taiwan","Non-Coking",0.17,97.94,5761.18
+664,"2020","United Arab Emirates","Coke",0.01,25.83,25830.0
+665,"2020","United Arab Emirates","Coking",0.22,296.76,13489.09
+666,"2020","United Arab Emirates","Non-Coking",0.66,275.04,4167.27
+667,"2020","United Kingdom","Coke",0.0,0.49,""
+668,"2020","United Kingdom","Coking",0.0,1.75,""
+669,"2020","United Kingdom","Non-Coking",0.28,147.77,5277.5
+670,"2020","United States Of America","Coke",0.0,0.24,""
+671,"2020","United States Of America","Coking",3.77,4588.02,12169.81
+672,"2020","United States Of America","Non-Coking",8.38,5160.38,6157.97
+673,"2020","Unspecified","Coke",0.02,5.08,2540.0
+674,"2020","Venezuela","Coke",0.0,0.77,""
+675,"2020","Vietnam","Non-Coking",0.07,106.57,15224.29
+676,"2020","Virgin Is Us","Coking",0.04,47.08,11770.0
+677,"2021","Australia","Coke",0.02,22.59,11295.0
+678,"2021","Australia","Coking",36.95,32964.84,8921.47
+679,"2021","Australia","Non-Coking",18.01,9720.86,5397.48
+680,"2021","Austria","Coking",0.08,65.67,8208.75
+681,"2021","Austria","Non-Coking",0.18,78.59,4366.11
+682,"2021","Baharain Is","Coke",0.0,0.48,""
+683,"2021","Baharain Is","Non-Coking",0.0,1.66,""
+684,"2021","Bangladesh","Non-Coking",0.33,28.03,849.39
+685,"2021","Belgium","Non-Coking",0.0,0.21,""
+686,"2021","Canada","Coke",0.0,0.73,""
+687,"2021","Canada","Coking",2.85,2639.48,9261.33
+688,"2021","Canada","Non-Coking",0.11,95.7,8700.0
+689,"2021","Chile","Coke",0.01,19.45,19450.0
+690,"2021","China","Coke",0.01,37.44,37440.0
+691,"2021","China","Lignite",0.02,40.92,20460.0
+692,"2021","China","Non-Coking",0.03,75.59,25196.67
+693,"2021","Colombia","Coke",0.51,825.42,16184.71
+694,"2021","Colombia","Non-Coking",2.35,1194.94,5084.85
+695,"2021","Cyprus","Non-Coking",0.0,1.52,""
+696,"2021","Denmark","Coke",0.0,2.34,""
+697,"2021","Egypt","Coke",0.01,11.53,11530.0
+698,"2021","Estonia","Coke",0.0,0.66,""
+699,"2021","Germany","Coke",0.0,0.78,""
+700,"2021","Germany","Coking",0.1,128.64,12864.0
+701,"2021","Germany","Non-Coking",0.0,1.04,""
+702,"2021","Ghana","Lignite",0.0,0.0,""
+703,"2021","Hong Kong","Coke",0.0,0.23,""
+704,"2021","Hong Kong","Non-Coking",0.0,1.21,""
+705,"2021","Indonesia","Coke",0.14,287.75,20553.57
+706,"2021","Indonesia","Coking",1.4,1024.63,7318.79
+707,"2021","Indonesia","Non-Coking",91.14,33101.58,3631.95
+708,"2021","Iran","Coke",0.0,0.99,""
+709,"2021","Ireland","Coke",0.0,0.27,""
+710,"2021","Italy","Coke",0.0,0.09,""
+711,"2021","Japan","Coke",0.4,743.94,18598.5
+712,"2021","Kazakhstan","Non-Coking",0.16,79.28,4955.0
+713,"2021","Latvia","Coke",0.0,7.18,""
+714,"2021","Latvia","Non-Coking",0.03,26.22,8740.0
+715,"2021","Lithuania","Coke",0.01,13.26,13260.0
+716,"2021","Mozambique","Coking",1.67,1431.86,8574.01
+717,"2021","Mozambique","Non-Coking",1.9,917.38,4828.32
+718,"2021","Netherlands","Non-Coking",0.06,37.56,6260.0
+719,"2021","New Zealand","Coke",0.0,0.51,""
+720,"2021","New Zealand","Coking",0.23,188.83,8210.0
+721,"2021","New Zealand","Non-Coking",0.0,2.94,""
+722,"2021","Philippines","Non-Coking",0.05,16.74,3348.0
+723,"2021","Poland","Coke",0.96,1837.98,19145.63
+724,"2021","Qatar","Coke",0.0,1.5,""
+725,"2021","Russia","Coke",0.12,223.53,18627.5
+726,"2021","Russia","Coking",1.33,892.21,6708.35
+727,"2021","Russia","Non-Coking",5.42,3675.27,6780.94
+728,"2021","Saudi Arabia","Non-Coking",0.07,31.24,4462.86
+729,"2021","Singapore","Coke",0.05,76.55,15310.0
+730,"2021","Singapore","Coking",1.86,1617.75,8697.58
+731,"2021","Singapore","Non-Coking",2.63,1236.06,4699.85
+732,"2021","South Africa","Non-Coking",31.09,14286.71,4595.28
+733,"2021","Spain","Coke",0.0,0.32,""
+734,"2021","Spain","Non-Coking",0.19,120.08,6320.0
+735,"2021","Switzerland","Coke",0.21,343.79,16370.95
+736,"2021","Switzerland","Coking",0.46,413.89,8997.61
+737,"2021","Switzerland","Non-Coking",1.51,726.31,4810.0
+738,"2021","United Arab Emirates","Coke",0.01,7.86,7860.0
+739,"2021","United Arab Emirates","Coking",0.39,297.75,7634.62
+740,"2021","United Arab Emirates","Non-Coking",0.44,195.82,4450.45
+741,"2021","United Kingdom","Coke",0.0,0.56,""
+742,"2021","United Kingdom","Coking",0.0,2.41,""
+743,"2021","United Kingdom","Non-Coking",0.01,8.75,8750.0
+744,"2021","United States Of America","Coke",0.0,0.02,""
+745,"2021","United States Of America","Coking",3.9,3687.27,9454.54
+746,"2021","United States Of America","Non-Coking",8.31,4960.5,5969.31
+747,"2021","Venezuela","Coke",0.0,1.12,""
+748,"2021","Vietnam","Non-Coking",0.03,47.05,15683.33
+749,"2022","Afghanistan","Non-Coking",0.0,0.03,""
+750,"2022","Australia","Coke",0.08,276.69,34586.25
+751,"2022","Australia","Coking",40.38,71840.27,17791.05
+752,"2022","Australia","Non-Coking",26.38,25273.77,9580.66
+753,"2022","Austria","Coking",0.03,89.08,29693.33
+754,"2022","Baharain Is","Coke",0.0,0.62,""
+755,"2022","Baharain Is","Non-Coking",0.0,1.76,""
+756,"2022","Bangladesh","Non-Coking",0.0,3.82,""
+757,"2022","Belgium","Non-Coking",0.0,0.09,""
+758,"2022","Bhutan","Coke",0.0,0.33,""
+759,"2022","Canada","Coke",0.0,0.45,""
+760,"2022","Canada","Coking",2.15,3490.02,16232.65
+761,"2022","Canada","Non-Coking",0.0,0.0,""
+762,"2022","Chile","Coke",0.01,42.91,42910.0
+763,"2022","China","Coke",0.09,353.56,39284.44
+764,"2022","China","Coking",0.92,1564.14,17001.52
+765,"2022","China","Lignite",0.01,32.73,32730.0
+766,"2022","China","Non-Coking",1.7,1613.35,9490.29
+767,"2022","Colombia","Coke",0.46,1255.86,27301.3
+768,"2022","Colombia","Non-Coking",0.05,67.51,13502.0
+769,"2022","Denmark","Coke",0.0,3.84,""
+770,"2022","Estonia","Coke",0.0,0.87,""
+771,"2022","France","Coke",0.0,0.0,""
+772,"2022","Germany","Coke",0.0,1.07,""
+773,"2022","Germany","Coking",0.08,96.53,12066.25
+774,"2022","Germany","Lignite",0.0,0.0,""
+775,"2022","Germany","Non-Coking",0.0,0.23,""
+776,"2022","Hong Kong","Coke",0.0,2.44,""
+777,"2022","Hong Kong","Lignite",0.0,1.22,""
+778,"2022","Hong Kong","Non-Coking",0.02,38.87,19435.0
+779,"2022","Indonesia","Coke",0.09,318.22,35357.78
+780,"2022","Indonesia","Coking",1.1,1755.03,15954.82
+781,"2022","Indonesia","Lignite",0.03,26.38,8793.33
+782,"2022","Indonesia","Non-Coking",71.39,47053.06,6590.99
+783,"2022","Ireland","Coke",0.0,0.2,""
+784,"2022","Japan","Coke",0.31,1022.01,32968.06
+785,"2022","Kazakhstan","Non-Coking",0.49,276.8,5648.98
+786,"2022","Latvia","Coke",0.0,9.68,""
+787,"2022","Lithuania","Coke",0.0,6.21,""
+788,"2022","Malaysia","Coking",0.04,47.27,11817.5
+789,"2022","Mozambique","Coking",1.81,3202.68,17694.36
+790,"2022","Mozambique","Non-Coking",4.76,4359.37,9158.34
+791,"2022","Netherlands","Coke",0.04,170.91,42727.5
+792,"2022","Netherlands","Non-Coking",0.07,84.74,12105.71
+793,"2022","New Zealand","Coking",0.1,96.99,9699.0
+794,"2022","Poland","Coke",1.02,3610.8,35400.0
+795,"2022","Poland","Lignite",0.03,70.68,23560.0
+796,"2022","Qatar","Coke",0.01,4.44,4440.0
+797,"2022","Russia","Coke",0.05,149.21,29842.0
+798,"2022","Russia","Coking",1.58,2570.27,16267.53
+799,"2022","Russia","Non-Coking",6.7,9296.03,13874.67
+800,"2022","Singapore","Coke",0.03,70.93,23643.33
+801,"2022","Singapore","Coking",4.3,9373.8,21799.53
+802,"2022","Singapore","Non-Coking",1.84,2266.58,12318.37
+803,"2022","South Africa","Coke",0.01,25.61,25610.0
+804,"2022","South Africa","Non-Coking",26.11,24128.9,9241.25
+805,"2022","South Korea","Coke",0.04,120.93,30232.5
+806,"2022","Spain","Coke",0.0,0.35,""
+807,"2022","Switzerland","Coke",0.2,554.38,27719.0
+808,"2022","Switzerland","Coking",0.57,1160.87,20366.14
+809,"2022","Switzerland","Non-Coking",1.45,1440.99,9937.86
+810,"2022","Tanzania Rep","Non-Coking",0.09,101.81,11312.22
+811,"2022","Ukraine","Coke",0.03,41.06,13686.67
+812,"2022","United Arab Emirates","Coke",0.0,6.37,""
+813,"2022","United Arab Emirates","Coking",0.23,342.42,14887.83
+814,"2022","United Arab Emirates","Non-Coking",0.14,180.57,12897.86
+815,"2022","United Kingdom","Coke",0.0,1.44,""
+816,"2022","United Kingdom","Coking",0.01,29.08,29080.0
+817,"2022","United Kingdom","Non-Coking",0.01,6.59,6590.0
+818,"2022","United States Of America","Coke",0.0,0.07,""
+819,"2022","United States Of America","Coking",3.85,7337.39,19058.16
+820,"2022","United States Of America","Lignite",0.0,0.09,""
+821,"2022","United States Of America","Non-Coking",10.52,9449.49,8982.4
+822,"2022","Venezuela","Coke",0.0,0.44,""
+823,"2022","Vietnam","Non-Coking",0.05,101.63,20326.0
+824,"2023","Afghanistan","Non-Coking",0.0,0.34,""
+825,"2023","Australia","Coke",0.34,1266.92,37262.35
+826,"2023","Australia","Coking",30.1,84807.72,28175.32
+827,"2023","Australia","Non-Coking",17.4,31361.33,18023.75
+828,"2023","Austria","Coking",0.03,58.97,19656.67
+829,"2023","Baharain Is","Coke",0.0,0.0,""
+830,"2023","Baharain Is","Non-Coking",0.01,13.06,13060.0
+831,"2023","Bangladesh","Non-Coking",0.0,0.0,""
+832,"2023","Belgium","Coke",0.0,0.03,""
+833,"2023","Belgium","Non-Coking",0.0,0.0,""
+834,"2023","Bhutan","Coke",0.0,0.43,""
+835,"2023","Botswana","Non-Coking",0.0,0.15,""
+836,"2023","Canada","Coke",0.0,0.0,""
+837,"2023","Canada","Coking",2.9,8394.62,28946.97
+838,"2023","Canada","Non-Coking",0.0,0.0,""
+839,"2023","Chile","Coke",0.01,27.47,27470.0
+840,"2023","China","Coke",0.82,3214.16,39197.07
+841,"2023","China","Coking",0.0,0.0,""
+842,"2023","China","Lignite",0.0,0.0,""
+843,"2023","China","Non-Coking",0.13,559.43,43033.08
+844,"2023","Colombia","Coke",0.44,1333.65,30310.23
+845,"2023","Colombia","Coking",0.01,30.46,30460.0
+846,"2023","Colombia","Non-Coking",0.08,29.27,3658.75
+847,"2023","Denmark","Coke",0.0,0.98,""
+848,"2023","Estonia","Coke",0.0,2.03,""
+849,"2023","France","Coke",0.0,0.01,""
+850,"2023","Germany","Coke",0.0,0.38,""
+851,"2023","Germany","Coking",0.0,0.0,""
+852,"2023","Germany","Lignite",0.0,0.0,""
+853,"2023","Germany","Non-Coking",0.08,75.4,9425.0
+854,"2023","Hong Kong","Coke",0.0,0.0,""
+855,"2023","Hong Kong","Lignite",0.0,0.0,""
+856,"2023","Hong Kong","Non-Coking",0.03,62.87,20956.67
+857,"2023","Indonesia","Coke",0.26,964.13,37081.92
+858,"2023","Indonesia","Coking",2.23,5542.78,24855.52
+859,"2023","Indonesia","Lignite",0.0,0.0,""
+860,"2023","Indonesia","Non-Coking",107.59,109682.49,10194.49
+861,"2023","Ireland","Coke",0.0,0.0,""
+862,"2023","Japan","Coke",0.33,1273.82,38600.61
+863,"2023","Kazakhstan","Non-Coking",0.0,0.0,""
+864,"2023","Latvia","Coke",0.01,20.61,20610.0
+865,"2023","Latvia","Coking",0.07,104.01,14858.57
+866,"2023","Latvia","Non-Coking",0.21,539.04,25668.57
+867,"2023","Lithuania","Coke",0.0,5.13,""
+868,"2023","Malaysia","Coking",0.0,0.0,""
+869,"2023","Mozambique","Coking",2.08,5181.18,24909.52
+870,"2023","Mozambique","Non-Coking",7.09,9245.59,13040.32
+871,"2023","Netherlands","Coke",0.0,0.0,""
+872,"2023","Netherlands","Non-Coking",0.0,0.15,""
+873,"2023","New Zealand","Coking",0.29,712.93,24583.79
+874,"2023","New Zealand","Non-Coking",0.02,35.28,17640.0
+875,"2023","Oman","Coke",0.01,35.99,35990.0
+876,"2023","Peru","Non-Coking",0.05,96.69,19338.0
+877,"2023","Philippines","Non-Coking",0.07,83.81,11972.86
+878,"2023","Poland","Coke",0.86,3522.38,40957.91
+879,"2023","Poland","Lignite",0.0,0.0,""
+880,"2023","Qatar","Coke",0.0,4.32,""
+881,"2023","Russia","Coke",0.09,330.49,36721.11
+882,"2023","Russia","Coking",4.48,9329.14,20823.97
+883,"2023","Russia","Non-Coking",16.86,29259.27,17354.25
+884,"2023","Saudi Arabia","Coke",0.0,0.32,""
+885,"2023","Serbia","Coke",0.0,0.0,""
+886,"2023","Singapore","Coke",0.2,697.63,34881.5
+887,"2023","Singapore","Coking",5.4,15438.79,28590.35
+888,"2023","Singapore","Non-Coking",4.67,6975.94,14937.77
+889,"2023","South Africa","Coke",0.0,0.87,""
+890,"2023","South Africa","Non-Coking",17.45,27746.05,15900.32
+891,"2023","South Korea","Coke",0.0,0.0,""
+892,"2023","Spain","Coke",0.0,0.23,""
+893,"2023","Switzerland","Coke",0.21,727.43,34639.52
+894,"2023","Switzerland","Coking",0.42,1251.71,29802.62
+895,"2023","Switzerland","Non-Coking",1.21,1256.33,10382.89
+896,"2023","Taiwan","Non-Coking",0.31,428.9,13835.48
+897,"2023","Tanzania Rep","Non-Coking",0.03,65.1,21700.0
+898,"2023","Turkey","Non-Coking",0.01,27.93,27930.0
+899,"2023","Ukraine","Coke",0.0,0.0,""
+900,"2023","United Arab Emirates","Coke",0.05,142.67,28534.0
+901,"2023","United Arab Emirates","Coking",0.66,1502.16,22760.0
+902,"2023","United Arab Emirates","Non-Coking",1.85,3189.36,17239.78
+903,"2023","United Kingdom","Coke",0.0,1.73,""
+904,"2023","United Kingdom","Coking",0.1,348.01,34801.0
+905,"2023","United Kingdom","Non-Coking",0.02,38.74,19370.0
+906,"2023","United States Of America","Coke",0.0,0.02,""
+907,"2023","United States Of America","Coking",7.27,21137.48,29074.94
+908,"2023","United States Of America","Lignite",0.0,0.0,""
+909,"2023","United States Of America","Non-Coking",6.42,8921.79,13896.87
+910,"2023","Unspecified","Coke",0.0,1.2,""
+911,"2023","Venezuela","Coke",0.0,0.0,""
+912,"2023","Vietnam","Non-Coking",0.01,50.08,50080.0

@@ -1,0 +1,112 @@
+City Name,Zone Name,Ward Name,Number of Poles,No. of poles of LED Bulbs,No. of poles with conventional / non LED Lights,Total length of roads (in km),Number of street lights / poles per km of road,Total no. of streets,No. of streets with adequate street lighting facilties
+Lucknow,Zone 1,B.B.D ,948,948,NA,NA,distance between two Pole 20 meter,948,NA
+Lucknow,Zone 1,GANESHGANJ,667,667,NA,NA,distance between two Pole 20 meter,667,NA
+Lucknow,Zone 1,GOLA GANJ PEER JALIL,901,901,NA,NA,distance between two Pole 20 meter,901,NA
+Lucknow,Zone 1,HAZARAT GANJ,1355,1355,NA,NA,distance between two Pole 20 meter,1355,NA
+Lucknow,Zone 1,J.C BOSH,1063,1063,NA,NA,distance between two Pole 20 meter,1063,NA
+Lucknow,Zone 1,LAL KUWA,483,483,NA,NA,distance between two Pole 20 meter,483,NA
+Lucknow,Zone 1,MAHATMA GANDHI,660,660,NA,NA,distance between two Pole 20 meter,660,NA
+Lucknow,Zone 1,MAULVI GANJ,1010,1010,NA,NA,distance between two Pole 20 meter,1010,NA
+Lucknow,Zone 1,NAZAR BAGH,274,274,NA,NA,distance between two Pole 20 meter,274,NA
+Lucknow,Zone 1,RAJA RAM MOHAN RAI,948,948,NA,NA,distance between two Pole 20 meter,948,NA
+Lucknow,Zone 1,RANI LAXMI BAI AMEENABAD,1051,1051,NA,NA,distance between two Pole 20 meter,1051,NA
+Lucknow,Zone 1,VIKRAMADITYA,1298,1298,NA,NA,distance between two Pole 20 meter,1298,NA
+Lucknow,Zone 1,WASHIRAT GANJ,281,281,NA,NA,distance between two Pole 20 meter,281,NA
+Lucknow,Zone 1,WAZEERGANJ,463,463,NA,NA,distance between two Pole 20 meter,463,NA
+Lucknow,Zone 1,YADUNATH SANYAL,696,696,NA,NA,distance between two Pole 20 meter,696,NA
+Lucknow,Zone 2,AISH BAGH,1538,1538,NA,NA,distance between two Pole 20 meter,1538,NA
+Lucknow,Zone 2,KUWAR JYOTI - I,867,867,NA,NA,distance between two Pole 20 meter,867,NA
+Lucknow,Zone 2,RAJA JI PURAM,3151,3151,NA,NA,distance between two Pole 20 meter,3151,NA
+Lucknow,Zone 2,RAZA BAJAR,636,636,NA,NA,distance between two Pole 20 meter,636,NA
+Lucknow,Zone 2,AMBEDKAR NAGAR,1057,1057,NA,NA,distance between two Pole 20 meter,1057,NA
+Lucknow,Zone 2,HARDIN RAI,1019,1019,NA,NA,distance between two Pole 20 meter,1019,NA
+Lucknow,Zone 2,LABOUR COLONY,458,458,NA,NA,distance between two Pole 20 meter,458,NA
+Lucknow,Zone 2,MALVIYA NAGAR,1127,1127,NA,NA,distance between two Pole 20 meter,1127,NA
+Lucknow,Zone 2,MOTI LAL NEHRU,1145,1145,NA,NA,distance between two Pole 20 meter,1145,NA
+Lucknow,Zone 2,RAJENDRA NAGAR,670,670,NA,NA,distance between two Pole 20 meter,670,NA
+Lucknow,Zone 2,TILAK NAGAR,770,770,NA,NA,distance between two Pole 20 meter,770,NA
+Lucknow,Zone 2,YANHIYA GANJ,850,850,NA,NA,distance between two Pole 20 meter,850,NA
+Lucknow,Zone 3,ALIGANJ,1389,1389,NA,NA,distance between two Pole 20 meter,1389,NA
+Lucknow,Zone 3,MAHAKAVI JAISHANKAR PRASHAD,1029,1029,NA,NA,distance between two Pole 20 meter,1029,NA
+Lucknow,Zone 3,JANKI PURAM I,2273,2273,NA,NA,distance between two Pole 20 meter,2273,NA
+Lucknow,Zone 3,JANKI PURAM II,1607,1607,NA,NA,distance between two Pole 20 meter,1607,NA
+Lucknow,Zone 3,TRIVENI NAGAR,1227,1227,NA,NA,distance between two Pole 20 meter,1227,NA
+Lucknow,Zone 3,BEGAM HAZARAT MAHAL,1005,1005,NA,NA,distance between two Pole 20 meter,1005,NA
+Lucknow,Zone 3,VIVEKANANDAPURI,961,961,NA,NA,distance between two Pole 20 meter,961,NA
+Lucknow,Zone 3,BHARTENDU HARISHCHANDRA,1278,1278,NA,NA,distance between two Pole 20 meter,1278,NA
+Lucknow,Zone 3,NIRALA NAGAR (DALIGANJ),1076,1076,NA,NA,distance between two Pole 20 meter,1076,NA
+Lucknow,Zone 3,FAIZULLAGANJ I,989,989,NA,NA,distance between two Pole 20 meter,989,NA
+Lucknow,Zone 3,FAIZULLAGANJ II,1322,1322,NA,NA,distance between two Pole 20 meter,1322,NA
+Lucknow,Zone 3,AYODHYA DAS I,585,585,NA,NA,distance between two Pole 20 meter,585,NA
+Lucknow,Zone 3,AYODHYA DAS II,706,706,NA,NA,distance between two Pole 20 meter,706,NA
+Lucknow,Zone 3,MAHANAGAR,1311,1311,NA,NA,distance between two Pole 20 meter,1311,NA
+Lucknow,Zone 3,LALA LAJPAT RAI,937,937,NA,NA,distance between two Pole 20 meter,937,NA
+Lucknow,Zone 3,KADAM RASHOOL,466,466,NA,NA,distance between two Pole 20 meter,466,NA
+Lucknow,Zone 3,FAIZULAGANJ IV,576,576,NA,NA,distance between two Pole 20 meter,576,NA
+Lucknow,Zone 3,MANKAMESHWAR,1389,1389,NA,NA,distance between two Pole 20 meter,1389,NA
+Lucknow,Zone 3,FAIZULAGANJ III,1012,1012,NA,NA,distance between two Pole 20 meter,1012,NA
+Lucknow,Zone 4,RAFI AHAMAD KIDWAI,2979,2979,NA,NA,distance between two Pole 20 meter,2979,NA
+Lucknow,Zone 4,CHINHAT FIRST,1544,1544,NA,NA,distance between two Pole 20 meter,1544,NA
+Lucknow,Zone 4,CHINHAT SECOND,3252,3252,NA,NA,distance between two Pole 20 meter,3252,NA
+Lucknow,Zone 4,RAJIV GANDHI FIRST,2508,2508,NA,NA,distance between two Pole 20 meter,2508,NA
+Lucknow,Zone 4,RAJIV GANDHI SECOND,2744,2744,NA,NA,distance between two Pole 20 meter,2744,NA
+Lucknow,Zone 4,NISHANT GANJ KELVIN,1137,1137,NA,NA,distance between two Pole 20 meter,1137,NA
+Lucknow,Zone 4,PAPER MILL,1252,1252,NA,NA,distance between two Pole 20 meter,1252,NA
+Lucknow,Zone 4,GOMTI NAGAR,969,969,NA,NA,distance between two Pole 20 meter,969,NA
+Lucknow,Zone 5,SAROJANI NAGAR I,1891,1891,NA,NA,distance between two Pole 20 meter,1891,NA
+Lucknow,Zone 5,CHITRAGUPTA NAGAR,1091,1091,NA,NA,distance between two Pole 20 meter,1091,NA
+Lucknow,Zone 5,GEETA PALLI ROAD,1366,1366,NA,NA,distance between two Pole 20 meter,1366,NA
+Lucknow,Zone 5,GURU NANAK ,903,903,NA,NA,distance between two Pole 20 meter,903,NA
+Lucknow,Zone 5,KESARI KHEDA,1350,1350,NA,NA,distance between two Pole 20 meter,1350,NA
+Lucknow,Zone 5,OM NAGAR,910,910,NA,NA,distance between two Pole 20 meter,910,NA
+Lucknow,Zone 5,RAM JI LAL NAGAR,1137,1137,NA,NA,distance between two Pole 20 meter,1137,NA
+Lucknow,Zone 5,GURU GOVIND SINGH,542,542,NA,NA,distance between two Pole 20 meter,542,NA
+Lucknow,Zone 5,BABU KUNJ BIHARI,909,909,NA,NA,distance between two Pole 20 meter,909,NA
+Lucknow,Zone 5,SAROJANI NAGAR II,1555,1555,NA,NA,distance between two Pole 20 meter,1555,NA
+Lucknow,Zone 6,NEW HAIDAR GANJ - III,1406,1406,NA,NA,distance between two Pole 20 meter,1406,NA
+Lucknow,Zone 6,NEW HAIDAR GANJ - II,1095,1095,NA,NA,distance between two Pole 20 meter,1095,NA
+Lucknow,Zone 6,ACHARYA NARENDRA DEV,923,923,NA,NA,distance between two Pole 20 meter,923,NA
+Lucknow,Zone 6,ALAM NAGAR,1698,1698,NA,NA,distance between two Pole 20 meter,1698,NA
+Lucknow,Zone 6,AMBERGANJ,1023,1023,NA,NA,distance between two Pole 20 meter,1023,NA
+Lucknow,Zone 6,ASARFABAD,701,701,NA,NA,distance between two Pole 20 meter,701,NA
+Lucknow,Zone 6,BALAGANJ,2403,2403,NA,NA,distance between two Pole 20 meter,2403,NA
+Lucknow,Zone 6,BHAVANIGANJ,825,825,NA,NA,distance between two Pole 20 meter,825,NA
+Lucknow,Zone 6,CHOWK KALAJI BAZAR,588,588,NA,NA,distance between two Pole 20 meter,588,NA
+Lucknow,Zone 6,DAULAT GANJ,1061,1061,NA,NA,distance between two Pole 20 meter,1061,NA
+Lucknow,Zone 6,GADHIPEER KHA,1217,1217,NA,NA,distance between two Pole 20 meter,1217,NA
+Lucknow,Zone 6,HUSAINABAD,1536,1536,NA,NA,distance between two Pole 20 meter,1536,NA
+Lucknow,Zone 6,KALBE ABID - II,775,775,NA,NA,distance between two Pole 20 meter,775,NA
+Lucknow,Zone 6,KANHAIYAMADHOPUR - II,987,987,NA,NA,distance between two Pole 20 meter,987,NA
+Lucknow,Zone 6,KALBE ABID - I,937,937,NA,NA,distance between two Pole 20 meter,937,NA
+Lucknow,Zone 6,KANHAIYAMADHOPUR,1347,1347,NA,NA,distance between two Pole 20 meter,1347,NA
+Lucknow,Zone 6,KASMIRI MOHLLA,1027,1027,NA,NA,distance between two Pole 20 meter,1027,NA
+Lucknow,Zone 6,MALLAHI TOLA -II,626,626,NA,NA,distance between two Pole 20 meter,626,NA
+Lucknow,Zone 6,MALLAHI TOLA -I,1177,1177,NA,NA,distance between two Pole 20 meter,1177,NA
+Lucknow,Zone 6,NEW HAIDAR GANJ -I,1561,1561,NA,NA,distance between two Pole 20 meter,1561,NA
+Lucknow,Zone 6,SAADAT GANJ,1583,1583,NA,NA,distance between two Pole 20 meter,1583,NA
+Lucknow,Zone 6,SHITLA DEVI,968,968,NA,NA,distance between two Pole 20 meter,968,NA
+Lucknow,Zone 7,MATHILI SHARAN GUPT,1874,1874,NA,NA,distance between two Pole 20 meter,1874,NA
+Lucknow,Zone 7,INDRA PRIYADARSINI,2825,2825,NA,NA,distance between two Pole 20 meter,2825,NA
+Lucknow,Zone 7,SAHID BHAGAT SINGH,2567,2567,NA,NA,distance between two Pole 20 meter,2567,NA
+Lucknow,Zone 7,BABU JAGJEEVAN RAM,1842,1842,NA,NA,distance between two Pole 20 meter,1842,NA
+Lucknow,Zone 7,ISMAIL GANJ FIRST,2595,2595,NA,NA,distance between two Pole 20 meter,2595,NA
+Lucknow,Zone 7,ISMAIL GANJ SECOND,2176,2176,NA,NA,distance between two Pole 20 meter,2176,NA
+Lucknow,Zone 7,LAL BHADUR SHASTRI FIRST,1603,1603,NA,NA,distance between two Pole 20 meter,1603,NA
+Lucknow,Zone 7,LAL BHADUR SHASTRI SECOND,1562,1562,NA,NA,distance between two Pole 20 meter,1562,NA
+Lucknow,Zone 7,INDRA NAGAR,1840,1840,NA,NA,distance between two Pole 20 meter,1840,NA
+Lucknow,Zone 7,SHANKAR PURVA FIRST,1702,1702,NA,NA,distance between two Pole 20 meter,1702,NA
+Lucknow,Zone 7,SHANKAR PURVA SECOND,1676,1676,NA,NA,distance between two Pole 20 meter,1676,NA
+Lucknow,Zone 7,SHANKAR PURVA THIRD,1125,1125,NA,NA,distance between two Pole 20 meter,1125,NA
+Lucknow,Zone 7,LOHIA NAGAR,1766,1766,NA,NA,distance between two Pole 20 meter,1766,NA
+Lucknow,Zone 8,VIDHYAVATI FIRST,1307,1307,NA,NA,distance between two Pole 20 meter,1307,NA
+Lucknow,Zone 8,VIDHYAVATI SECOND,1035,1035,NA,NA,distance between two Pole 20 meter,1035,NA
+Lucknow,Zone 8,VIDHYAVATI THIRD,848,848,NA,NA,distance between two Pole 20 meter,848,NA
+Lucknow,Zone 8,SHARDA NAGAR FIRST,1683,1683,NA,NA,distance between two Pole 20 meter,1683,NA
+Lucknow,Zone 8,SHARDA NAGAR SECOND,1803,1803,NA,NA,distance between two Pole 20 meter,1803,NA
+Lucknow,Zone 8,IBRAHIM PUR FIRST,1562,1562,NA,NA,distance between two Pole 20 meter,1562,NA
+Lucknow,Zone 8,IBRAHIM PUR SECOND,1640,1640,NA,NA,distance between two Pole 20 meter,1640,NA
+Lucknow,Zone 8,KHARIKA FIRST,1463,1463,NA,NA,distance between two Pole 20 meter,1463,NA
+Lucknow,Zone 8,KHARIKA SECOND,1654,1654,NA,NA,distance between two Pole 20 meter,1654,NA
+Lucknow,Zone 8,RAJA BIJLI PASI FIRST,1662,1662,NA,NA,distance between two Pole 20 meter,1662,NA
+Lucknow,Zone 8,RAJA BIJLI PASI SECOND,1319,1319,NA,NA,distance between two Pole 20 meter,1319,NA
+Lucknow,Zone 8,HIND NAGAR,897,897,NA,NA,distance between two Pole 20 meter,897,NA

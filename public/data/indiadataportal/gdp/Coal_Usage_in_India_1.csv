@@ -1,0 +1,273 @@
+"id","year","sector","quantity"
+0,"2006","Power (Captive)",23.2
+1,"2006","Power (Utility)",312.1
+2,"2007","Power (Captive)",28.7
+3,"2007","Power (Utility)",321.8
+4,"2008","Power (Captive)",36.2
+5,"2008","Power (Utility)",348.6
+6,"2009","Power (Captive)",37.2
+7,"2009","Power (Utility)",372.3
+8,"2010","Power (Captive)",45.3
+9,"2010","Power (Utility)",379.8
+10,"2011","Power (Captive)",45.6
+11,"2011","Power (Utility)",385.6
+12,"2012","Power (Captive)",51.6
+13,"2012","Power (Utility)",400.2
+14,"2013","Power (Captive)",66.4
+15,"2013","Power (Utility)",427.8
+16,"2014","Power (Captive)",62.0
+17,"2014","Power (Utility)",430.0
+18,"2015","Power (Captive)",73.7
+19,"2015","Power (Utility)",473.1
+20,"2016","Power (Captive)",41.5
+21,"2016","Power (Utility)",518.3
+22,"2017","Power (Captive)",72.3
+23,"2017","Power (Utility)",505.1
+24,"2018","Power (Captive)",89.0
+25,"2018","Power (Utility)",537.6
+26,"2019","Power (Captive)",102.8
+27,"2019","Power (Utility)",586.4
+28,"2020","Power (Captive)",115.1
+29,"2020","Power (Utility)",546.7
+30,"2021","Power (Captive)",66.7
+31,"2021","Power (Utility)",571.3
+32,"2006","Metallurgical Use- Cokeries",8.8
+33,"2006","Metallurgical Use- Direct Feed",0.4
+34,"2006","Sponge Iron",11.3
+35,"2006","Steel (Boilers)",7.5
+36,"2007","Metallurgical Use- Cokeries",8.1
+37,"2007","Metallurgical Use- Direct Feed",0.4
+38,"2007","Sponge Iron",13.8
+39,"2007","Steel (Boilers)",5.6
+40,"2008","Metallurgical Use- Cokeries",7.4
+41,"2008","Metallurgical Use- Direct Feed",0.4
+42,"2008","Sponge Iron",16.9
+43,"2008","Steel (Boilers)",1.1
+44,"2009","Metallurgical Use- Cokeries",7.5
+45,"2009","Metallurgical Use- Direct Feed",0.8
+46,"2009","Sponge Iron",16.1
+47,"2009","Steel (Boilers)",2.6
+48,"2010","Metallurgical Use- Cokeries",6.8
+49,"2010","Metallurgical Use- Direct Feed",1.3
+50,"2010","Sponge Iron",19.2
+51,"2010","Steel (Boilers)",3.7
+52,"2011","Metallurgical Use- Cokeries",9.2
+53,"2011","Metallurgical Use- Direct Feed",0.7
+54,"2011","Sponge Iron",18.9
+55,"2011","Steel (Boilers)",1.4
+56,"2012","Metallurgical Use- Cokeries",4.4
+57,"2012","Metallurgical Use- Direct Feed",1.0
+58,"2012","Sponge Iron",18.2
+59,"2012","Steel (Boilers)",0.6
+60,"2013","Metallurgical Use- Cokeries",6.8
+61,"2013","Metallurgical Use- Direct Feed",0.6
+62,"2013","Sponge Iron",17.4
+63,"2013","Steel (Boilers)",0.7
+64,"2014","Metallurgical Use- Cokeries",6.7
+65,"2014","Metallurgical Use- Direct Feed",0.5
+66,"2014","Sponge Iron",15.1
+67,"2014","Steel (Boilers)",0.8
+68,"2015","Metallurgical Use- Cokeries",3.9
+69,"2015","Metallurgical Use- Direct Feed",1.0
+70,"2015","Sponge Iron",14.1
+71,"2015","Steel (Boilers)",0.9
+72,"2016","Metallurgical Use- Cokeries",7.2
+73,"2016","Metallurgical Use- Direct Feed",0.6
+74,"2016","Sponge Iron",7.8
+75,"2016","Steel (Boilers)",0.9
+76,"2017","Metallurgical Use- Cokeries",4.2
+77,"2017","Metallurgical Use- Direct Feed",1.5
+78,"2017","Sponge Iron",5.7
+79,"2017","Steel (Boilers)",0.1
+80,"2018","Metallurgical Use- Cokeries",3.0
+81,"2018","Metallurgical Use- Direct Feed",2.5
+82,"2018","Sponge Iron",8.5
+83,"2018","Steel (Boilers)",1.2
+84,"2019","Metallurgical Use- Cokeries",3.0
+85,"2019","Metallurgical Use- Direct Feed",1.0
+86,"2019","Sponge Iron",12.3
+87,"2019","Steel (Boilers)",0.9
+88,"2020","Metallurgical Use- Cokeries",0.0
+89,"2020","Metallurgical Use- Direct Feed",6.7
+90,"2020","Sponge Iron",10.4
+91,"2020","Steel (Boilers)",0.2
+92,"2021","Metallurgical Use- Cokeries",0.0
+93,"2021","Metallurgical Use- Direct Feed",5.4
+94,"2021","Sponge Iron",9.6
+95,"2021","Steel (Boilers)",0.5
+96,"2006","Cement",16.0
+97,"2007","Cement",15.5
+98,"2008","Cement",16.2
+99,"2009","Cement",13.4
+100,"2010","Cement",15.0
+101,"2011","Cement",15.1
+102,"2012","Cement",14.2
+103,"2013","Cement",14.0
+104,"2014","Cement",13.2
+105,"2015","Cement",7.5
+106,"2016","Cement",9.0
+107,"2017","Cement",6.7
+108,"2018","Cement",8.8
+109,"2019","Cement",10.6
+110,"2020","Cement",9.6
+111,"2021","Cement",7.6
+112,"2006","Bricks",1.7
+113,"2006","Chemical",1.8
+114,"2006","Cokeries",0.0
+115,"2006","Colliery Own - Consumption",0.8
+116,"2006","Colliery Staff",0.3
+117,"2006","Fertilisers",2.3
+118,"2006","Other",29.5
+119,"2006","Other Basic-Metal (Aluminium Etc)",1.3
+120,"2006","Pulp and Paper",3.0
+121,"2006","Textiles and Rayons",1.4
+122,"2007","Bricks",0.9
+123,"2007","Chemical",1.6
+124,"2007","Cokeries",0.0
+125,"2007","Colliery Own - Consumption",0.5
+126,"2007","Colliery Staff",0.0
+127,"2007","Fertilisers",2.5
+128,"2007","Other",41.0
+129,"2007","Other Basic-Metal (Aluminium Etc)",0.5
+130,"2007","Pulp and Paper",2.7
+131,"2007","Textiles and Rayons",1.1
+132,"2008","Bricks",0.0
+133,"2008","Chemical",1.4
+134,"2008","Cokeries",0.0
+135,"2008","Colliery Own - Consumption",0.4
+136,"2008","Colliery Staff",0.0
+137,"2008","Fertilisers",2.5
+138,"2008","Other",46.9
+139,"2008","Other Basic-Metal (Aluminium Etc)",0.7
+140,"2008","Pulp and Paper",3.0
+141,"2008","Textiles and Rayons",1.2
+142,"2009","Bricks",0.0
+143,"2009","Chemical",1.4
+144,"2009","Cokeries",0.0
+145,"2009","Colliery Own - Consumption",0.4
+146,"2009","Colliery Staff",0.0
+147,"2009","Fertilisers",2.4
+148,"2009","Other",54.6
+149,"2009","Other Basic-Metal (Aluminium Etc)",0.9
+150,"2009","Pulp and Paper",2.5
+151,"2009","Textiles and Rayons",5.0
+152,"2010","Bricks",1.0
+153,"2010","Chemical",1.1
+154,"2010","Cokeries",0.0
+155,"2010","Colliery Own - Consumption",0.3
+156,"2010","Colliery Staff",0.0
+157,"2010","Fertilisers",0.9
+158,"2010","Other",61.9
+159,"2010","Other Basic-Metal (Aluminium Etc)",0.7
+160,"2010","Pulp and Paper",4.0
+161,"2010","Textiles and Rayons",1.1
+162,"2011","Bricks",0.8
+163,"2011","Chemical",1.6
+164,"2011","Cokeries",0.0
+165,"2011","Colliery Own - Consumption",0.4
+166,"2011","Colliery Staff",0.2
+167,"2011","Fertilisers",2.9
+168,"2011","Other",65.8
+169,"2011","Other Basic-Metal (Aluminium Etc)",1.2
+170,"2011","Pulp and Paper",5.0
+171,"2011","Textiles and Rayons",1.5
+172,"2012","Bricks",1.1
+173,"2012","Chemical",1.2
+174,"2012","Cokeries",0.0
+175,"2012","Colliery Own - Consumption",0.4
+176,"2012","Colliery Staff",0.1
+177,"2012","Fertilisers",2.8
+178,"2012","Other",70.9
+179,"2012","Other Basic-Metal (Aluminium Etc)",0.2
+180,"2012","Pulp and Paper",2.7
+181,"2012","Textiles and Rayons",3.9
+182,"2013","Bricks",2.9
+183,"2013","Chemical",1.0
+184,"2013","Cokeries",0.0
+185,"2013","Colliery Own - Consumption",0.5
+186,"2013","Colliery Staff",0.0
+187,"2013","Fertilisers",2.5
+188,"2013","Other",64.5
+189,"2013","Other Basic-Metal (Aluminium Etc)",0.6
+190,"2013","Pulp and Paper",2.8
+191,"2013","Textiles and Rayons",3.8
+192,"2014","Bricks",5.2
+193,"2014","Chemical",0.5
+194,"2014","Cokeries",0.0
+195,"2014","Colliery Own - Consumption",0.4
+196,"2014","Colliery Staff",0.0
+197,"2014","Fertilisers",2.3
+198,"2014","Other",69.9
+199,"2014","Other Basic-Metal (Aluminium Etc)",0.7
+200,"2014","Pulp and Paper",3.2
+201,"2014","Textiles and Rayons",1.1
+202,"2015","Bricks",0.7
+203,"2015","Chemical",0.7
+204,"2015","Cokeries",0.0
+205,"2015","Colliery Own - Consumption",0.4
+206,"2015","Colliery Staff",0.0
+207,"2015","Fertilisers",2.3
+208,"2015","Other",63.7
+209,"2015","Other Basic-Metal (Aluminium Etc)",0.5
+210,"2015","Pulp and Paper",2.3
+211,"2015","Textiles and Rayons",3.3
+212,"2016","Bricks",0.5
+213,"2016","Chemical",0.6
+214,"2016","Cokeries",0.0
+215,"2016","Colliery Own - Consumption",0.3
+216,"2016","Colliery Staff",0.0
+217,"2016","Fertilisers",2.3
+218,"2016","Other",79.1
+219,"2016","Other Basic-Metal (Aluminium Etc)",0.7
+220,"2016","Pulp and Paper",1.8
+221,"2016","Textiles and Rayons",2.0
+222,"2017","Bricks",0.5
+223,"2017","Chemical",0.5
+224,"2017","Cokeries",0.0
+225,"2017","Colliery Own - Consumption",0.3
+226,"2017","Colliery Staff",0.0
+227,"2017","Fertilisers",2.1
+228,"2017","Other",84.2
+229,"2017","Other Basic-Metal (Aluminium Etc)",1.2
+230,"2017","Pulp and Paper",1.7
+231,"2017","Textiles and Rayons",1.5
+232,"2018","Bricks",0.5
+233,"2018","Chemical",0.5
+234,"2018","Cokeries",0.0
+235,"2018","Colliery Own - Consumption",0.2
+236,"2018","Colliery Staff",0.0
+237,"2018","Fertilisers",1.9
+238,"2018","Other",74.1
+239,"2018","Other Basic-Metal (Aluminium Etc)",0.8
+240,"2018","Pulp and Paper",2.3
+241,"2018","Textiles and Rayons",2.7
+242,"2019","Bricks",0.7
+243,"2019","Chemical",0.6
+244,"2019","Cokeries",0.0
+245,"2019","Colliery Own - Consumption",0.2
+246,"2019","Colliery Staff",0.0
+247,"2019","Fertilisers",1.8
+248,"2019","Other",55.0
+249,"2019","Other Basic-Metal (Aluminium Etc)",1.3
+250,"2019","Pulp and Paper",2.4
+251,"2019","Textiles and Rayons",2.8
+252,"2020","Bricks",0.5
+253,"2020","Chemical",0.5
+254,"2020","Cokeries",3.1
+255,"2020","Colliery Own - Consumption",0.2
+256,"2020","Colliery Staff",0.0
+257,"2020","Fertilisers",1.8
+258,"2020","Other",49.4
+259,"2020","Other Basic-Metal (Aluminium Etc)",0.7
+260,"2020","Pulp and Paper",1.9
+261,"2020","Textiles and Rayons",0.3
+262,"2021","Bricks",0.5
+263,"2021","Chemical",0.5
+264,"2021","Cokeries",3.1
+265,"2021","Colliery Own - Consumption",0.2
+266,"2021","Colliery Staff",0.0
+267,"2021","Fertilisers",1.5
+268,"2021","Other",75.8
+269,"2021","Other Basic-Metal (Aluminium Etc)",0.7
+270,"2021","Pulp and Paper",1.6
+271,"2021","Textiles and Rayons",0.4

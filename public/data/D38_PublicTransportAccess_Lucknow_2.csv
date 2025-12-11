@@ -1,0 +1,5 @@
+City Name,Type of bus (AC / Non AC),No. of buses of that type,No. of bus terminals,No. of bus stands,No. of bus stops
+Lucknow,Low Floor AC,15,2,200,230
+Lucknow,Low Floor Non-AC,30,NA,NA,NA
+Lucknow,Tata Big Buses,90,NA,NA,NA
+Lucknow,Swaraj Mazda,125,NA,NA,NA
